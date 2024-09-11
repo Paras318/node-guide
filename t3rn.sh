@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the t3rn Paras the baau!"
+echo "Welcome to the CRYPTODROPS!"
 
 cd $HOME
 sudo apt -q update
